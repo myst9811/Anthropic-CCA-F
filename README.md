@@ -1,2 +1,2 @@
-# Anthropic-s-CCA-F
+# Anthropic-CCA-F
 resources for the Claude Certified Architect - Foundations (CCA-F) certification
